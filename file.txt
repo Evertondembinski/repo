@@ -1,5 +1,6 @@
 linha 1
 linha 2
 Funçao envia email
+	correcao de funcionalidade
 
 
